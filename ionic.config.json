@@ -1,0 +1,7 @@
+{
+  "name": "Enginedetector",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
